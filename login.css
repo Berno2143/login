@@ -1,0 +1,38 @@
+
+h1{
+    text-align: center;
+    -webkit-text-fill-color: yellowgreen;
+    text-shadow: -3px -3px 2px #000;
+    font-size: 72px;
+    height: 50px;
+    font-family: Eurostile Bold;
+    margin: 0px;
+}
+
+body {
+    background-image: url("https://i.pinimg.com/originals/76/20/60/7620608082d58b22e387676afe2c730f.gif");
+    background-size: cover;
+  }
+
+input{
+    margin: -20px -90px;
+    position:relative;
+    left: 50%;
+    top:50%; 
+}
+
+button{
+    text-align: center;
+    height:20px; 
+    width:100px; 
+    margin: -20px -50px; 
+    position:relative;
+    top:50%; 
+    left:50%;
+    background-color: cyan;
+    cursor: pointer;
+  }
+
+  button:hover {
+    opacity: 0.8;
+  }
